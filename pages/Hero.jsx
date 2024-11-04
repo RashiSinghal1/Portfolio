@@ -61,7 +61,7 @@ const Hero = () => {
             </div> */}
           </div>
           <div className="button-cv ">
-            <a href="/S.K.Sugan.pdf" download>
+            <a href="/Resume.pdf" download>
               <button className="button-17" type="button">
                 Download CV
               </button>

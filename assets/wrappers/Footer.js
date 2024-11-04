@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const Wrapper = styled.div`
-  margin-top: 11rem;
+  margin-top: 10rem;
   /* background-color: white !important; */
   .footer {
     display: flex;

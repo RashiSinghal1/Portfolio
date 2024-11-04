@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="footer">
         {/* <img src="wave.png" alt="" /> */}
         <div className="f-content">
-          <span>rashisingha143@gmail.com</span>
+          {/* <span>rashisingha143@gmail.com</span> */}
           <div className="f-icons">
             <a className='trans' href="https://github.com/RashiSinghal1">
               {" "}
