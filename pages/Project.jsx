@@ -27,7 +27,7 @@ const Project = () => {
             This portfolio website serves as a showcase of my technical skills and professional accomplishments. Built using HTML, CSS, JavaScript, and React, it offers an immersive experience that highlights my command over front-end technologies. The platform is designed to be visually engaging and user-friendly, illustrating my expertise in creating polished, professional web applications.
             </span>
             <div className="button">
-              <a href="https://github.com/SonuSugan/Portfolio">
+              <a href="https://github.com/RashiSinghal1/Portfolio">
                 {" "}
                 <button className="button-17">
                   {" "}
@@ -59,7 +59,7 @@ const Project = () => {
             Developed a tour guide portal that enhances travel experiences for domestic tourists by offering features like user registration, secure login, and interactive state selection. The portal utilizes Google Maps API for precise route mapping, enabling users to explore destinations conveniently without the need for a human guide. Built with HTML, CSS, MySQL, and JavaScript, this project delivers a smooth and engaging experience, combining functionality with cost-effectiveness for users.
             </span>
             <div className="button">
-              <a href="https://github.com/SonuSugan/tourist-guide.github.io">
+              <a href="https://github.com/RashiSinghal1/Tour-Guide">
                 {" "}
                 <button className="button-17">
                   {" "}
